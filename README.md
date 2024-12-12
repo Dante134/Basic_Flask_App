@@ -82,23 +82,8 @@ Visit `http://127.0.0.1:5000` in your browser to interact with the application.
 
 ### `requirements.txt`:  
 ```plaintext  
-Flask==2.1.2  
+Flask  
 ```  
-
----
-
-## Future Enhancements  
-
-- **Validation**: Add checks for invalid inputs (e.g., negative scores).  
-- **Styling**: Enhance the form and result pages with CSS.  
-- **Result Insights**: Include additional details such as total marks and grade distribution.  
-- **Deployment**: Host the application on a cloud platform like Heroku or AWS.  
-
----
-
-## License  
-
-This project is licensed under the MIT License.  
 
 ---  
 
